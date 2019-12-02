@@ -1,0 +1,1 @@
+python/python3 %PYTHON_PATH%\Scripts\genpass.py
